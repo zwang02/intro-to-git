@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # intro-to-git change
+
+>>>>>>> 5632e020defa88f38579afbe47c56c9ca4bff6d3
 Note taken during intro to Git tutorial
 
 ##Useful git commands
