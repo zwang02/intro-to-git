@@ -1,4 +1,4 @@
-# intro-to-git
+# intro-to-git change
 Note taken during intro to Git tutorial
 
 ##Useful git commands
